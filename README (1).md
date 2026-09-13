@@ -1,4 +1,4 @@
-
+# Morley Search Engine & Cloud Database Platform
 
 © 2026 Morley Moses Apooch. All Rights Reserved. See `LICENSE.md`.
 
@@ -82,7 +82,3 @@ is useful *evidence* of authorship. It is **not** a government filing.
 Formal copyright/trademark registration in Canada must be filed directly
 with CIPO (Canadian Intellectual Property Office); no software or AI tool
 can complete that filing on your behalf.
----
-```bash
-# After organizing
-node backend/server.js
